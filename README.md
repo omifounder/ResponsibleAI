@@ -1,3 +1,4 @@
+![SAGA - Safe AI Guardian](saga-logo.png)
 # SafeAI Guardian
 
 **Autonomous agents need oversight. Their overseers need it too.**
